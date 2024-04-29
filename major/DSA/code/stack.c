@@ -99,7 +99,7 @@ void display(){
     else{
         printf("stack elements is:\n");
         for(int i=top;i>=0;i--){
-            printf("%d\n",stack_arr[i]);
+            printf("%d ",stack_arr[i]);
         }
         printf("\n");
     }
