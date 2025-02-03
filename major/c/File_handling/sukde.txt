@@ -1,0 +1,2 @@
+i am astudent.
+i am reading file 
